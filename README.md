@@ -1,4 +1,4 @@
-# Business-Intelligence-Analytics-System
+# BI-Analytics-System
 
 Portfolio project in SQL Server focused on data warehousing, analytical reporting, and advanced T-SQL development.
 
